@@ -13,10 +13,10 @@ body{
 	font-family: 'PF Arma Five';
     font-weight: normal;
     font-style: normal;
-	color: white;
 }
 h1{
 	font-weight: normal;
+	color: #eee;
 }
 a{
 	color: #9146FF;
