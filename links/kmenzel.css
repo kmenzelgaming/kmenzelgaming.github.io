@@ -20,6 +20,7 @@ h1{
 	font-size: 64px;
 	margin-bottom: 14px;
 	margin-top: 14px;
+	text-shadow: 0 0 15px rgba(145,70,255,.5), 0 0 10px rgba(145,70,255,.5);
 }
 a{
 	color: #9146FF;
