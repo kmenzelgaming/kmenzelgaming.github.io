@@ -18,6 +18,8 @@ h1{
 	font-weight: normal;
 	color: #eee;
 	font-size: 64px;
+	margin-bottom: 14px;
+	margin-top: 14px;
 }
 a{
 	color: #9146FF;
@@ -28,12 +30,12 @@ a{
 	text-align: center;
 	width: 500px;
 	font-family: 'PF Arma Five';
-	font-size: 32px;
-	padding: 16px;
+	font-size: 28px;
+	padding: 14px;
 	border-style: solid;
 	color: #9146FF;
 	background-color: #eee;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 16px;
+	margin-bottom: 14px;
 }
