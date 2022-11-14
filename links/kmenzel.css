@@ -37,6 +37,7 @@ a{
 	border-width: 5px;
 	color: #9146FF;
 	background-color: rgba(238,238,238,.95);
+	text-shadow: 0 0 15px rgba(238,238,238,.5), 0 0 10px rgba(238,238,238,.5);
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 14px;
